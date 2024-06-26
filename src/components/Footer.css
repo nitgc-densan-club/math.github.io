@@ -1,0 +1,30 @@
+footer{
+    padding:5px;
+    padding-bottom:0px;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+}
+
+.logoContent{
+    width:60px;
+    height:60px;
+}
+
+
+.footerLinks{
+    display:flex;
+    justify-content:center;
+}
+.footerLink{
+    text-decoration:none;
+    text-align:center;
+    color:white;
+    margin-left:5px;
+    margin-right:5px
+}
+
+.copylight{
+    text-align:center;
+    color:gray;
+}

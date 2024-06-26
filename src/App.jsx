@@ -1,4 +1,5 @@
 import './App.css'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       {/* メイン */}
 
       {/* TODO フッターを作る */}
-    </>
+      <Footer></Footer>          </>
   )
 }
 
